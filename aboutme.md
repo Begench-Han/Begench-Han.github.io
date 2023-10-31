@@ -11,23 +11,46 @@ At the Institute for Basic Science, my contributions include working on antibody
 While this remains my central focus, I'm also expanding my knowledge in other Machine Learning domains, such as computer vision, neural rendering, diffusion models, and point clouds. Parallelly, I'm investing time in understanding the practical aspects of AI, diving deeper into technologies like CUDA, and exploring hardware accelerators, notably FPGA.
 
 
-## EDUCATION
-### Korea Advanced Institute of Science and Technology (KAIST)
-- **Duration:** 2020 - Present
-- **Degree:** B.S Double Major in Computer Science and Chemical & Biomolecular Engineering
+### EDUCATION
 
-## PUBLICATIONS
-- **2022:** "Antibody Sequence Design With Graph-Based Deep Learning Methods" presented at the Korea Software Congress (KSC).
+#### Korea Advanced Institute of Science and Technology(KAIST)
+**2020 - Present**  
+B.S Double Major: Computer Science and Chemical & Biomolecular Engineering
 
-## RESEARCH EXPERIENCE
+### PUBLICATIONS
+1. B.Hangeldiyev, A.Rzayev, A.Armanuly, L.F. Vecchietti, M. Cha*, H. Kim*, “Antibody Sequence Design With Graph-Based Deep Learning Methods.” presented at the Korea Software Congress (KSC), 2022.
 
-### Institute for Basic Science (IBS)
-- **Duration:** Jun 2022 - Present
-- **Role:** Data Science Group, Prof. Meeyoung Cha
-  - Developing deep learning-based computational methods for protein and antibody sequence design.
-  - Improving strategies for Antigen-conditioned Antibody design.
+### RESEARCH EXPERIENCE
 
-### Korea Advanced Institute of Science and Technology (KAIST)
-- **Duration:** Apr 2022 - Jun 2022
-- **Role:** Neuro-Machine Augmented Intelligence Laboratory (NMAIL), Prof. Sungho Jo
+#### Institute for Basic Science(IBS)
+**Jun 2022 - Present**  
+Data Science Group, Prof. Meeyoung Cha
+- Developing novel deep learning-based computational methods for protein sequence design and antibody sequence design.
+- Analyzing and improving the computational strategy for Antigen-conditioned Antibody design.
+
+#### Korea Advanced Institute of Science and Technology(KAIST)
+**Apr 2022 - Jun 2022**  
+Neuro-Machine Augmented Intelligence Laboratory(NMAIL), Prof. Sungho Jo
+- Collaborated on the development of a deep learning model for a wide range of robot grippers, enabling diverse object handling.
+
+### PROJECTS
+
+- **Neural Radiance Fields:** Enhanced MLP, ray sampling, and volume rendering in a NeRF project, focusing on 3D scene reconstruction.
+- **PointNet Model:** Re-implemented PointNet for 3D data processing, demonstrating its capability with complex 3D data.
+- **CUDA Implementation of Convolutional Layers:** Employed CUDA for CNN layer implementation, emphasizing efficient computing.
+- **Neural Machine Translation:** Constructed LSTM, LSTM with Attention, and Transformer models for translation using the Multi30k dataset (German-English pairs).
+- **Semantic Segmentation:** Developed a Fully Convolutional Network (FCN) for segmenting 20 object categories using the PASCAL VOC 2011 dataset.
+- **Image Classification:** Crafted a CNN model for image classification on the CIFAR-10 dataset.
+
+### AWARDS
+
+- Gold Medal in National Chemistry Olympiad, 2019, Turkmenistan
+- Gold Medal in Amity International Chemistry Olympiad, 2019, New Delhi/India
+- Bronze Medal in National Chemistry Olympiad, 2020, Turkmenistan
+
+### SKILLS
+
+- **Programming Languages:** Python (NumPy, Pandas, Scikit-learn), JavaScript (ReactJS), Scala, C, CUDA, Java, HTML5, CSS
+- **Deep-Learning Frameworks:** PyTorch, TensorFlow
+
 
