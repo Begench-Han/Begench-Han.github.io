@@ -12,8 +12,8 @@ layout: base
       {% endfor %}
     </div>
   {% endif %}
-
-  {{ "aboutme" | relative_url }}
+  
+  {{ aboutme | markdownify }}
 
   {% if page.after-content %}
     <div class="after-content">
