@@ -28,12 +28,12 @@ Data Science Group, Prof. [Meeyoung Cha](https://ds.ibs.re.kr/ci/)
 
 #### Korea Advanced Institute of Science and Technology(KAIST)
 **Apr 2022 - Jun 2022**  
-Neuro-Machine Augmented Intelligence Laboratory(NMAIL), Prof. Sungho Jo
+Neuro-Machine Augmented Intelligence Laboratory(NMAIL), Prof. [Sungho Jo](http://nmail.kaist.ac.kr/wordpress/index.php/professor-jo-sungho/)
 - Collaborated on the development of a deep learning model for a wide range of robot grippers, enabling diverse object handling.
 
 #### Korea Advanced Institute of Science and Technology(KAIST)
 **December 2021 - February 2022**  
-Molecular Simulation Group, Prof. Jihan Kim
+[Molecular Simulation Group](https://molsim.kaist.ac.kr/home), Prof. Jihan Kim
 - Implemented Machine Learning models to predict boiling points of chemical compounds using SMILES representations. The dataset with SMILES representations and boiling points was created by utilizing the PubChem database.
 
 
