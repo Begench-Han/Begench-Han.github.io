@@ -32,9 +32,9 @@ While this remains my central focus, I'm also expanding my knowledge in other Ma
 
 
 ### PROJECTS
-- **Neural Radiance Fields:** Enhanced MLP, ray sampling, and volume rendering in a NeRF project, focusing on 3D scene reconstruction.
-- **PointNet Model:** Re-implemented PointNet for 3D data processing, demonstrating its capability with complex 3D data.
-- **CUDA Implementation of Convolutional Layers:** Employed CUDA for CNN layer implementation, emphasizing efficient computing.
+- **Neural Radiance Fields:** I worked on a project using Neural Radiance Fields (NeRF), with a specific focus on optimizing the Multilayer Perceptron (MLP), ray sampling, and volume rendering components. This project helped me learn a lot about the processes of 3D scene reconstruction and rendering.
+- **PointNet Model:** I successfully re-implemented the PointNet model, a neural network for processing point clouds and 3D shapes. This project involved a detailed study of the original paper, allowing me to grasp complex concepts of geometric data processing. The obtained model demonstrated its effectiveness and efficiency in handling complex 3D data.
+- **CUDA Implementation of Convolutional Layers:** I worked on a project where I used the CUDA programming language to implement different layers of Convolutional Neural Networks (CNN), including Convolution, Batch Normalization, Activation, and Pooling. This experience helped me get hands-on knowledge about how to use CUDA for efficient computing.
 - **Neural Machine Translation:** Constructed LSTM, LSTM with Attention, and Transformer models for translation using the Multi30k dataset (German-English pairs).
 - **Semantic Segmentation:** Developed a Fully Convolutional Network (FCN) for segmenting 20 object categories using the PASCAL VOC 2011 dataset.
 - **Image Classification:** Crafted a CNN model for image classification on the CIFAR-10 dataset.
