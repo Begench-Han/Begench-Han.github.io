@@ -33,6 +33,12 @@ Data Science Group, Prof. Meeyoung Cha
 Neuro-Machine Augmented Intelligence Laboratory(NMAIL), Prof. Sungho Jo
 - Collaborated on the development of a deep learning model for a wide range of robot grippers, enabling diverse object handling.
 
+#### Korea Advanced Institute of Science and Technology(KAIST)
+**December 2021 - February 2022**  
+Molecular Simulation Group, Prof. Jihan Kim
+- Implemented Machine Learning models to predict boiling points of chemical compounds using SMILES representations. The dataset with SMILES representations and boiling points was created by utilizing the PubChem database.
+
+
 ### PROJECTS
 
 - **Neural Radiance Fields:** Enhanced MLP, ray sampling, and volume rendering in a NeRF project, focusing on 3D scene reconstruction.
