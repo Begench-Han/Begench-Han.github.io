@@ -22,7 +22,7 @@ B.S Double Major: Computer Science and Chemical & Biomolecular Engineering
 ### RESEARCH EXPERIENCE
 #### Institute for Basic Science(IBS)
 **Jun 2022 - Present**  
-Data Science Group, Prof. Meeyoung Cha
+Data Science Group, Prof. [Meeyoung Cha](https://ds.ibs.re.kr/ci/)
 - Developing novel deep learning-based computational methods for protein sequence design and antibody sequence design.
 - Analyzing and improving the computational strategy for Antigen-conditioned Antibody design.
 
@@ -47,13 +47,15 @@ Molecular Simulation Group, Prof. Jihan Kim
 
 ### AWARDS
 
-- Gold Medal in National Chemistry Olympiad, 2019, Turkmenistan
-- Gold Medal in Amity International Chemistry Olympiad, 2019, New Delhi/India
-- Bronze Medal in National Chemistry Olympiad, 2020, Turkmenistan
+- **Gold Medal** in National Chemistry Olympiad, 2019, Turkmenistan
+- **Gold Medal** in Amity International Chemistry Olympiad, 2019, New Delhi/India
+- **Bronze Medal** in National Chemistry Olympiad, 2020, Turkmenistan
 
 ### SKILLS
+- **Languages:** Turkmen (Native), English (Fluent), Turkish, Russian
+- **Programming Languages:** Python, JavaScript, Scala, C, CUDA, Java, HTML5, CSS
+- **Python libraries (Deep Learning, Data Science):** PyTorch, Numpy, Pandas, Scikit-learn
+- **Web Programming:** ReactJS, HTML5, CSS
 
-- **Programming Languages:** Python (NumPy, Pandas, Scikit-learn), JavaScript (ReactJS), Scala, C, CUDA, Java, HTML5, CSS
-- **Deep-Learning Frameworks:** PyTorch, TensorFlow
 
 
