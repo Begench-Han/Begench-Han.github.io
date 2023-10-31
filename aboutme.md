@@ -4,7 +4,7 @@ title: Begench Hangeldiyev
 subtitle: About Me
 ---
 
-I'm currently an undergraduate at KAIST, where I'm majoring in Computer Science and Minor in Chemical & Biomolecular Engineering. Additionally, I'm gaining hands-on research experience as an intern at the Institute for Basic Science. My research focuses on the intersection of AI and biological systems, specifically proteins and antibodies. Specifically, the development of an AI-based framework for antigen-conditioned antibody design. 
+I'm currently an undergraduate at KAIST, where I'm majoring in Computer Science and minoring in Chemical & Biomolecular Engineering. Additionally, I'm gaining hands-on research experience as an intern at the Institute for Basic Science. My research focuses on the intersection of AI and biological systems, specifically proteins and antibodies. Specifically, the development of an AI-based framework for antigen-conditioned antibody design. 
 
 At the Institute for Basic Science, my contributions include working on antibody sequence design using graph neural networks. I've introduced new models specifically tailored for antibody sequence design and have developed loss functions that consider the unique attributes of antibodies.
 
