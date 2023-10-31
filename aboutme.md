@@ -12,7 +12,6 @@ While this remains my central focus, I'm also expanding my knowledge in other Ma
 
 
 ### EDUCATION
-
 #### Korea Advanced Institute of Science and Technology(KAIST)
 **2020 - Present**  
 B.S Double Major: Computer Science and Chemical & Biomolecular Engineering
@@ -21,7 +20,6 @@ B.S Double Major: Computer Science and Chemical & Biomolecular Engineering
 1. B.Hangeldiyev, A.Rzayev, A.Armanuly, L.F. Vecchietti, M. Cha*, H. Kim*, “Antibody Sequence Design With Graph-Based Deep Learning Methods.” presented at the Korea Software Congress (KSC), 2022.
 
 ### RESEARCH EXPERIENCE
-
 #### Institute for Basic Science(IBS)
 **Jun 2022 - Present**  
 Data Science Group, Prof. Meeyoung Cha
@@ -40,7 +38,6 @@ Molecular Simulation Group, Prof. Jihan Kim
 
 
 ### PROJECTS
-
 - **Neural Radiance Fields:** Enhanced MLP, ray sampling, and volume rendering in a NeRF project, focusing on 3D scene reconstruction.
 - **PointNet Model:** Re-implemented PointNet for 3D data processing, demonstrating its capability with complex 3D data.
 - **CUDA Implementation of Convolutional Layers:** Employed CUDA for CNN layer implementation, emphasizing efficient computing.
