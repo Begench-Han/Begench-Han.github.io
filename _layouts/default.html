@@ -7,15 +7,6 @@ layout: base
 <div class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}" role="main">
   <div class="row">
     <div class="{% if page.full-width %} col {% else %} col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 {% endif %}">
-
-      <!-- Displaying the title and subtitle from aboutme.md -->
-      {% for p in site.pages %}
-        {% if p.name == "aboutme.md" %}
-          <h1>{{ p.title }}</h1>
-          <h2>{{ p.subtitle }}</h2>
-        {% endif %}
-      {% endfor %}
-
       {% if page.before-content %}
         <div class="before-content">
           {% for file in page.before-content %}
