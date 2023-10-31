@@ -4,11 +4,12 @@ title: Begench Hangeldiyev
 subtitle: About Me
 ---
 
-# BEGENCH HANGELDIYEV
-- **Phone:** +82 10 2375-2333
-- **Location:** Daejeon, South Korea
-- **Email:** begahan@kaist.ac.kr
-- **LinkedIn:** [linkedin.com/begench-hangeldiyev](https://linkedin.com/begench-hangeldiyev)
+I'm currently an undergraduate at KAIST, where I'm majoring in Computer Science and Chemical & Biomolecular Engineering. Additionally, I'm gaining hands-on research experience as an intern at the Institute for Basic Science. My research focuses on the intersection of AI and biological systems, specifically proteins and antibodies. Specifically, the development of an AI-based framework for antigen-conditioned antibody design. 
+
+At the Institute for Basic Science, my contributions include working on antibody sequence design using graph neural networks. I've introduced new models specifically tailored for antibody sequence design and have developed loss functions that consider the unique attributes of antibodies.
+
+While this remains my central focus, I'm also expanding my knowledge in other Machine Learning domains, such as computer vision, neural rendering, diffusion models, and point clouds. Parallelly, I'm investing time in understanding the practical aspects of AI, diving deeper into technologies like CUDA, and exploring hardware accelerators, notably FPGA.
+
 
 ## EDUCATION
 ### Korea Advanced Institute of Science and Technology (KAIST)
