@@ -4,7 +4,7 @@ title: Begench Hangeldiyev
 subtitle: About Me
 ---
 
-I'm currently an undergraduate at KAIST, where I'm majoring in Computer Science and Chemical & Biomolecular Engineering. Additionally, I'm gaining hands-on research experience as an intern at the Institute for Basic Science. My research focuses on the intersection of AI and biological systems, specifically proteins and antibodies. Specifically, the development of an AI-based framework for antigen-conditioned antibody design. 
+I'm currently an undergraduate at KAIST, where I'm majoring in Computer Science and Minor in Chemical & Biomolecular Engineering. Additionally, I'm gaining hands-on research experience as an intern at the Institute for Basic Science. My research focuses on the intersection of AI and biological systems, specifically proteins and antibodies. Specifically, the development of an AI-based framework for antigen-conditioned antibody design. 
 
 At the Institute for Basic Science, my contributions include working on antibody sequence design using graph neural networks. I've introduced new models specifically tailored for antibody sequence design and have developed loss functions that consider the unique attributes of antibodies.
 
@@ -14,10 +14,10 @@ While this remains my central focus, I'm also expanding my knowledge in other Ma
 ### EDUCATION
 #### Korea Advanced Institute of Science and Technology(KAIST)
 **2020 - Present**  
-B.S Double Major: Computer Science and Chemical & Biomolecular Engineering
+B.S Major: Computer Science(Minor: Chemical & Biomolecular Engineering)
 
 ### PUBLICATIONS
-1. B.Hangeldiyev, A.Rzayev, A.Armanuly, L.F. Vecchietti, M. Cha*, H. Kim*, “Antibody Sequence Design With Graph-Based Deep Learning Methods.” presented at the Korea Software Congress (KSC), 2022.
+1. **B.Hangeldiyev**, A.Rzayev, A.Armanuly, L.F. Vecchietti, M. Cha*, H. Kim*, “**Antibody Sequence Design With Graph-Based Deep Learning Methods.**” presented at the Korea Software Congress (KSC), 2022.
 
 ### RESEARCH EXPERIENCE
 #### Institute for Basic Science(IBS)
