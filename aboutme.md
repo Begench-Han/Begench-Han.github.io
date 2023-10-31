@@ -4,13 +4,29 @@ title: Begench Hangeldiyev
 subtitle: About Me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# BEGENCH HANGELDIYEV
+- **Phone:** +82 10 2375-2333
+- **Location:** Daejeon, South Korea
+- **Email:** begahan@kaist.ac.kr
+- **LinkedIn:** [linkedin.com/begench-hangeldiyev](https://linkedin.com/begench-hangeldiyev)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## EDUCATION
+### Korea Advanced Institute of Science and Technology (KAIST)
+- **Duration:** 2020 - Present
+- **Degree:** B.S Double Major in Computer Science and Chemical & Biomolecular Engineering
 
-What else do you need?
+## PUBLICATIONS
+- **2022:** "Antibody Sequence Design With Graph-Based Deep Learning Methods" presented at the Korea Software Congress (KSC).
 
-### My story
+## RESEARCH EXPERIENCE
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Institute for Basic Science (IBS)
+- **Duration:** Jun 2022 - Present
+- **Role:** Data Science Group, Prof. Meeyoung Cha
+  - Developing deep learning-based computational methods for protein and antibody sequence design.
+  - Improving strategies for Antigen-conditioned Antibody design.
+
+### Korea Advanced Institute of Science and Technology (KAIST)
+- **Duration:** Apr 2022 - Jun 2022
+- **Role:** Neuro-Machine Augmented Intelligence Laboratory (NMAIL), Prof. Sungho Jo
+
