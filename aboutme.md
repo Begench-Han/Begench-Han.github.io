@@ -20,7 +20,7 @@ B.S Major: Computer Science(Minor: Chemical & Biomolecular Engineering)
 1. **B.Hangeldiyev**, A.Rzayev, A.Armanuly, L.F. Vecchietti, M. Cha*, H. Kim*, “**Antibody Sequence Design With Graph-Based Deep Learning Methods.**” presented at the Korea Software Congress (KSC), 2022.
 
 ### RESEARCH EXPERIENCE
-**Jun 2022 - Present:** Data Science Group, Institute for Basic Science(IBS), Prof. [Meeyoung Cha](https://ds.ibs.re.kr/ci/)
+1. **Jun 2022 - Present:** Data Science Group, Institute for Basic Science(IBS), Prof. [Meeyoung Cha](https://ds.ibs.re.kr/ci/)
 - Proposed new antibody-specific models for protein sequence design using graph attentive neural networks.
 - Proposed novel loss functions for protein sequence design given antibody-specific characteristics.
 - Supporting the development of an AI-based framework for antigen-conditioned antibody design.
