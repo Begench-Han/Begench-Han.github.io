@@ -25,7 +25,7 @@ B.S Major: Computer Science(Minor: Chemical & Biomolecular Engineering)
 Data Science Group, Prof. [Meeyoung Cha](https://ds.ibs.re.kr/ci/)
 - Proposed new antibody-specific models for protein sequence design using graph attentive neural networks.
 - Proposed novel loss functions for protein sequence design given antibody-specific characteristics.
-- Supporting the development of an AI-based framework for antigen-conditioned antibody \\ design.
+- Supporting the development of an AI-based framework for antigen-conditioned antibody design.
 
 #### Korea Advanced Institute of Science and Technology(KAIST)
 **Apr 2022 - Jun 2022**
