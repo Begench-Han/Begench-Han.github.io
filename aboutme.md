@@ -35,9 +35,9 @@ While this remains my central focus, I'm also expanding my knowledge in other Ma
 - **Neural Radiance Fields:** I worked on a project using Neural Radiance Fields (NeRF), with a specific focus on optimizing the Multilayer Perceptron (MLP), ray sampling, and volume rendering components. This project helped me learn a lot about the processes of 3D scene reconstruction and rendering.
 - **PointNet Model:** I successfully re-implemented the PointNet model, a neural network for processing point clouds and 3D shapes. This project involved a detailed study of the original paper, allowing me to grasp complex concepts of geometric data processing. The obtained model demonstrated its effectiveness and efficiency in handling complex 3D data.
 - **CUDA Implementation of Convolutional Layers:** I worked on a project where I used the CUDA programming language to implement different layers of Convolutional Neural Networks (CNN), including Convolution, Batch Normalization, Activation, and Pooling. This experience helped me get hands-on knowledge about how to use CUDA for efficient computing.
-- **Neural Machine Translation:** Constructed LSTM, LSTM with Attention, and Transformer models for translation using the Multi30k dataset (German-English pairs).
-- **Semantic Segmentation:** Developed a Fully Convolutional Network (FCN) for segmenting 20 object categories using the PASCAL VOC 2011 dataset.
-- **Image Classification:** Crafted a CNN model for image classification on the CIFAR-10 dataset.
+- **Neural Machine Translation:** I worked on creating different models, including LSTM, LSTM with Attention, and Transformer, to translate between German and English. For this, I used the Multi30k dataset which provides a rich collection of German-English pairs.
+- **Semantic Segmentation:** Developed a specialized Fully Convolutional Network (FCN) to identify and segment 20 distinct object categories in images. I trained and tested this using the detailed PASCAL VOC 2011 dataset.
+- **Image Classification:** Crafted a CNN model specifically for classifying images into different categories. I utilized the popular CIFAR-10 dataset to train and validate the model's performance.
 
 ### AWARDS
 
