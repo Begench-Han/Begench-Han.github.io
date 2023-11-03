@@ -8,7 +8,7 @@ I'm currently an undergraduate at KAIST, where I'm majoring in Computer Science 
 
 At the Institute for Basic Science, my contributions include working on antibody sequence design using graph neural networks. I've introduced new models specifically tailored for antibody sequence design and have developed loss functions that consider the unique attributes of antibodies.
 
-While this remains my central focus, I'm also expanding my knowledge in other Machine Learning domains, such as computer vision, neural rendering, diffusion models, and point clouds. Parallelly, I'm investing time in understanding the practical aspects of AI, diving deeper into technologies like CUDA, and exploring hardware accelerators, notably FPGA.
+While this remains my central focus, I'm also expanding my knowledge in other Machine Learning domains, such as computer vision, neural rendering, diffusion models, and point clouds. Parallelly, I'm investing time in understanding the practical aspects of AI, diving deeper into technologies like CUDA, and exploring hardware accelerators, notably FPGA. Alongside my AI studies, I've improved my software skills by working on a Web3 rewards app and a Figma app for new parents, focusing on user-friendly design (UI/UX). This work has taught me more about building websites and creating good designs that people find easy and helpful to use.
 
 
 ### EDUCATION
