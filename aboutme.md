@@ -13,14 +13,14 @@ While this remains my central focus, I'm also expanding my knowledge in other Ma
 
 ### EDUCATION
 - **Korea Advanced Institute of Science and Technology(KAIST)**
-  - M.S in Robotics Program, KAIST Computer vision and Learning lab (KCVL), Advisor: Prof. Tae-Kyun Kim **2024, September - Present**  
+  - M.S in Robotics Program, KAIST Computer vision and Learning lab (KCVL), Advisor: **Prof. [Tae-Kyun Kim](https://sites.google.com/view/tkkim/home)** **2024, September - Present**  
 - **Korea Advanced Institute of Science and Technology(KAIST)**
   - B.S Major: Computer Science(Minor: Chemical & Biomolecular Engineering), **2020, August - 2024, August**  
 
 ### PUBLICATIONS
 1. **B.Hangeldiyev**, A.Rzayev, A.Armanuly, L.F. Vecchietti, M. Cha*, H. Kim*, “**Antibody Sequence Design With Graph-Based Deep Learning Methods.**” presented at the Korea Software Congress (KSC), 2022.
-2. L.F.Vecchietti,M. Lee, **B. Hangeldiyev** ,H. Jung,H. Park, T-K. Kim,M. Cha,H.M. Kim,”Recent advances in
-interpretable machine learning using structure-based protein representations” arXiv:2409.17726,2024.
+2. L.F.Vecchietti,M. Lee, **B. Hangeldiyev** ,H. Jung,H. Park, T-K. Kim,M. Cha,H.M. Kim,”**Recent advances in
+interpretable machine learning using structure-based protein representations. **” arXiv:2409.17726,2024.
 
 ### RESEARCH EXPERIENCE
 - **Sep 2024 - Present:** KAIST Computer vision and Learning lab (KCVL), KAIST, Prof. [Tae-Kyun Kim](https://sites.google.com/view/tkkim/home)
