@@ -4,11 +4,12 @@ title: Begench Hangeldiyev
 subtitle: About Me
 ---
 
-I'm currently an undergraduate at KAIST, where I'm majoring in Computer Science and minoring in Chemical & Biomolecular Engineering. Additionally, I'm gaining hands-on research experience as an intern at the Institute for Basic Science. My research focuses on the intersection of AI and biological systems, specifically proteins and antibodies. Specifically, the development of an AI-based framework for antigen-conditioned antibody design. 
+I am a Master’s student in the Robotics Program at KAIST, working in the Computer Vision and Learning Lab (KCVL) under Prof. Tae-Kyun Kim. My research focuses on applying deep learning and graph neural networks to biological systems, specifically in protein engineering and antibody design. Recently, I’ve been developing techniques to enhance the wet-lab expressibility of targeted protein classes and creating GNN-based models for evaluating antibody candidates. Outside my primary research, I contribute to interdisciplinary projects, such as computational nuclear history research,
+combining data analysis and AI methodologies
 
-At the Institute for Basic Science, my contributions include working on antibody sequence design using graph neural networks. I've introduced new models specifically tailored for antibody sequence design and have developed loss functions that consider the unique attributes of antibodies.
+Previously, I contributed to projects at the Institute for Basic Science, proposing new antibody-specific models and loss functions for protein sequence design. I’ve also worked on data-driven boiling point prediction of chemical compounds using their structures, and robot gripper design using deep learning.
 
-While this remains my central focus, I'm also expanding my knowledge in other Machine Learning domains, such as computer vision, neural rendering, diffusion models, and point clouds. Parallelly, I'm investing time in understanding the practical aspects of AI, diving deeper into technologies like CUDA, and exploring hardware accelerators, notably FPGA. Alongside my AI studies, I've improved my software skills by working on a Web3 rewards app and a Figma app for new parents, focusing on user-friendly design (UI/UX). This work has taught me more about building websites and creating good designs that people find easy and helpful to use.
+In addition to my research, I’ve explored cutting-edge topics in machine learning, including neural rendering, point cloud processing, and CUDA-based implementations for efficient computation. I enjoy working on interdisciplinary projects, such as Web3 eco-friendly apps and user-friendly tools, combining technical expertise with impactful applications.
 
 
 ### EDUCATION
@@ -25,7 +26,8 @@ interpretable machine learning using structure-based protein representations. **
 ### RESEARCH EXPERIENCE
 - **Sep 2024 - Present:** KAIST Computer vision and Learning lab (KCVL), KAIST, Prof. [Tae-Kyun Kim](https://sites.google.com/view/tkkim/home)
   - Developing advanced deep learning techniques to improve the wet-lab expressibility of targeted protein classes.
-  - Working on a GNN-based model to predict the effectiveness of antibody candidates, using graph representations of antigen-antibody complexes for fast evaluation.
+  - Building a GNN-based model to enable rapid evaluation of the effectiveness of antibody
+candidates by analyzing antigen-antibody complexes.
 - **Oct 2024 - Present:** Technology and History of Environment and Nuclear (THEN) Lab, KAIST, Prof. [Donghyun Woo](https://sites.google.com/view/thenlab/people?authuser=0)
   -  Developing a dataset by analyzing Russian academic journal data on nuclear power to enable computational nuclear history research.
 - **Jun 2022 - Aug 2024:** Data Science Group, Institute for Basic Science(IBS), Prof. [Meeyoung Cha](https://ds.ibs.re.kr/ci/)
