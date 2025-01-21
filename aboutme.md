@@ -13,16 +13,26 @@ While this remains my central focus, I'm also expanding my knowledge in other Ma
 
 ### EDUCATION
 - **Korea Advanced Institute of Science and Technology(KAIST)**
-  - B.S Major: Computer Science(Minor: Chemical & Biomolecular Engineering), **2020 - Present**  
+  - M.S in Robotics Program, KAIST Computer vision and Learning lab (KCVL), Advisor: Prof. Tae-Kyun Kim **2024, September - Present**  
+- **Korea Advanced Institute of Science and Technology(KAIST)**
+  - B.S Major: Computer Science(Minor: Chemical & Biomolecular Engineering), **2020, August - 2024, August**  
 
 ### PUBLICATIONS
 1. **B.Hangeldiyev**, A.Rzayev, A.Armanuly, L.F. Vecchietti, M. Cha*, H. Kim*, “**Antibody Sequence Design With Graph-Based Deep Learning Methods.**” presented at the Korea Software Congress (KSC), 2022.
+2. L.F.Vecchietti,M. Lee, **B. Hangeldiyev** ,H. Jung,H. Park, T-K. Kim,M. Cha,H.M. Kim,”Recent advances in
+interpretable machine learning using structure-based protein representations” arXiv:2409.17726,2024.
 
 ### RESEARCH EXPERIENCE
-- **Jun 2022 - Present:** Data Science Group, Institute for Basic Science(IBS), Prof. [Meeyoung Cha](https://ds.ibs.re.kr/ci/)
+- **Sep 2024 - Present:** KAIST Computer vision and Learning lab (KCVL), KAIST, Prof. [Tae-Kyun Kim](https://sites.google.com/view/tkkim/home)
+  - Developing advanced deep learning techniques to improve the wet-lab expressibility of targeted protein classes.
+  - Working on a GNN-based model to predict the effectiveness of antibody candidates, using graph representations of antigen-antibody complexes for fast evaluation.
+- **Oct 2024 - Present:** Technology and History of Environment and Nuclear (THEN) Lab, KAIST, Prof. [Donghyun Woo](https://sites.google.com/view/thenlab/people?authuser=0)
+  -  Developing a dataset by analyzing Russian academic journal data on nuclear power to enable computational nuclear history research.
+- **Jun 2022 - Aug 2024:** Data Science Group, Institute for Basic Science(IBS), Prof. [Meeyoung Cha](https://ds.ibs.re.kr/ci/)
   - Proposed new antibody-specific models for protein sequence design using graph attentive neural networks.
   - Proposed novel loss functions for protein sequence design given antibody-specific characteristics.
-  - Supporting the development of an AI-based framework for antigen-conditioned antibody design.
+  - Supported the development of an AI-based framework for antigen-conditioned antibody design.
+  
 
 - **Apr 2022 - Jun 2022:** Neuro-Machine Augmented Intelligence Laboratory(NMAIL), KAIST, Prof. [Sungho Jo](http://nmail.kaist.ac.kr/wordpress/index.php/professor-jo-sungho/)
   - Collaborated on the development of a deep learning model for a wide range of robot grippers, enabling diverse object handling.
@@ -41,12 +51,7 @@ While this remains my central focus, I'm also expanding my knowledge in other Ma
 - **Web3 Eco-Friendly App:** Developed a Web3 application that enables users to submit proof of their eco-friendly activities to earn rewards, which can be redeemed for green products offered at discounted prices.
   
 - **New Parent-Friendly Web App:** Worked on designing a simple and accessible web app for new parents using Figma. It offers easy navigation and essential parenting tips. The app's goal is to support parents with straightforward, practical resources.
-  
-- **Neural Machine Translation:** I worked on creating different models, including LSTM, LSTM with Attention, and Transformer, to translate between German and English. For this, I used the Multi30k dataset which provides a rich collection of German-English pairs.
-  
-- **Semantic Segmentation:** Developed a specialized Fully Convolutional Network (FCN) to identify and segment 20 distinct object categories in images. I trained and tested this using the detailed PASCAL VOC 2011 dataset.
-  
-- **Image Classification:** Crafted a CNN model specifically for classifying images into different categories. I utilized the popular CIFAR-10 dataset to train and validate the model's performance.
+
 
 ### AWARDS
 
@@ -59,6 +64,7 @@ While this remains my central focus, I'm also expanding my knowledge in other Ma
 - **Programming Languages:** Python, JavaScript, Scala, C, CUDA, Java, HTML5, CSS
 - **Python libraries (Deep Learning, Data Science):** PyTorch, Numpy, Pandas, Scikit-learn
 - **Web Programming:** ReactJS, HTML5, CSS
+
 
 
 
